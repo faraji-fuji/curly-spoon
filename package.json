@@ -1,5 +1,6 @@
 {
-  "name": "CyWeather",
+  "homepage": "https://faraji-fuji.github.io/curly-spoon",
+  "name": "curly-spoon",
   "version": "4.0.0",
   "description": "A weather forecast App.",
   "private": true,
