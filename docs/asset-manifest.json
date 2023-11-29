@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curly-spoon/static/css/main.0cb60769.css",
+    "main.js": "/curly-spoon/static/js/main.ee714be9.js",
+    "static/js/787.6c2e8bc8.chunk.js": "/curly-spoon/static/js/787.6c2e8bc8.chunk.js",
+    "index.html": "/curly-spoon/index.html",
+    "main.0cb60769.css.map": "/curly-spoon/static/css/main.0cb60769.css.map",
+    "main.ee714be9.js.map": "/curly-spoon/static/js/main.ee714be9.js.map",
+    "787.6c2e8bc8.chunk.js.map": "/curly-spoon/static/js/787.6c2e8bc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb60769.css",
+    "static/js/main.ee714be9.js"
+  ]
+}
